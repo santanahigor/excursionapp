@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+header {
+    background-color: #4d004d;
+    color: whitesmoke;
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color: whitesmoke;
+    text-shadow: red;
+}
+
+p {
+   color: white;
+}
